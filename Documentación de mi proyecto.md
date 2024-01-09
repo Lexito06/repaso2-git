@@ -5,6 +5,15 @@
 [pulsa aqui](https://www.google.es)
 ![error al cargar imagen](https://www.iesaguadulce.es/centro/templates/dd_toysshop_34/images/logo_ies_aguadulce.png)
 ![](https://picsum.photos/id/1084/536/354?grayscale)
+
+> Esto es una nota
+
+> [!WARNING]
+> Cuidado con los videos informativos
+
+Ejemplo de emoji :home:
+
+
 * Uno
 * Dos 
    * Tres
