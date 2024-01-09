@@ -2,7 +2,7 @@
 ## Apartado 1: Introducción
 ### Preferencias
 
-[pulsa aqui](htps://www.google.es)
+[pulsa aqui](https://www.google.es)
 ![error al cargar imagen](https://www.iesaguadulce.es/centro/templates/dd_toysshop_34/images/logo_ies_aguadulce.png)
 ![](https://picsum.photos/id/1084/536/354?grayscale)
 * Uno
