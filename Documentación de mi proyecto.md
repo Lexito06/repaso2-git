@@ -11,8 +11,6 @@
 > [!WARNING]
 > Cuidado con los videos informativos
 
-Ejemplo de emoji :home:
-
 
 * Uno
 * Dos 
